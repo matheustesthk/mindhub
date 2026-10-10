@@ -13,4 +13,4 @@ O **MindHub** é uma aplicação web criada para otimizar a rotina diária e org
 * `mindhub_gest_o_pessoal (1).html` - Interface principal de gestão.
 
 ## 👤 Autor
-Desenvolvido por **Matheus**[cite: 2].
+Desenvolvido por **Matheus**.
